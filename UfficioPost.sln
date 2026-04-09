@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UfficioPost", "UfficioPost\UfficioPost.csproj", "{240C38C4-06B7-4DE0-9B39-5C7151FEE81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240C38C4-06B7-4DE0-9B39-5C7151FEE81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240C38C4-06B7-4DE0-9B39-5C7151FEE81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240C38C4-06B7-4DE0-9B39-5C7151FEE81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240C38C4-06B7-4DE0-9B39-5C7151FEE81C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DE55E9-ABFA-4D46-A1CD-EC27170F85D3}
+	EndGlobalSection
+EndGlobal
